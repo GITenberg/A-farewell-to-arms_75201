@@ -1,5 +1,8 @@
 _repo: A-farewell-to-arms_75201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75201-h/images/cover.jpg
 creator:
   author:
     agent_name: Hemingway, Ernest
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50533
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Hemingway
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/A_Farewell_to_Arms'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75201#A-farewell-to-arms
 gutenberg_issued: '2025-01-24'
 gutenberg_type: Text
 identifiers:
